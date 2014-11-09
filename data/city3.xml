@@ -1,0 +1,1328 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>zzxx</Author>
+  <LastAuthor>zzxx</LastAuthor>
+  <Created>2014-11-09T09:21:42Z</Created>
+  <LastSaved>2014-11-09T09:32:17Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8115</WindowHeight>
+  <WindowWidth>21570</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="宋体" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s71">
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="city3">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="180" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="14.25">
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">City</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Color</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">quarter</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">y</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ABERDEEN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1093</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1932</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ARHUS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1985</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2124</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BELFAST</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">765</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2190</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BERGEN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1650</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1575</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BIRMINGHAM</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">979</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2536</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BREMEN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1855</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2528</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CORK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">463</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2492</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">DUBLIN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">687</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2344</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">FAROER</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">937</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1281</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GLASGOW</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">897</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2072</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GRONINGEN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1657</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2484</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">HAMBURG</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1971</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2466</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">INVERNESS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">960</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1876</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">KIEL</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1971</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2348</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LEEDS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1043</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2356</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LIVERPOOL</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">937</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2390</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NEWCASTLE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1065</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2214</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">REYKJAVIK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">702</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SHETLAND ISLANDS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1223</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1543</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">STAVANGER</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1650</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1746</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ARKHANGEL</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1639</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">717</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BERLIN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">215</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2548</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GAVLE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">401</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1523</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GDANSK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">595</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2330</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GOTEBORG</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">99</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1938</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">HAMMERFEST</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">605</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">217</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">HELSINKI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">933</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1523</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">JONKOPING</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">245</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1922</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">KARLSTAD</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">209</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1684</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">KIRUNA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">493</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">595</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">KOBENHAVN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">147</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2176</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LENINGRAD</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1265</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1463</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LUBECK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2420</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LULEA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">625</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">849</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MALMO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">203</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2220</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MINSK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1275</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2252</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MOSKVA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1739</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1836</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NARVIK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">317</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">565</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NORRKOPING</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">407</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1772</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">OSLO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1644</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">OULU</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">827</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">905</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">POZNAN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">487</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2544</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">RIGA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">923</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1920</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ROSTOCK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">101</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2394</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ROVANIEMI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">785</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">711</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SMOLENSK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1537</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2068</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">STOCKHOLM</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1692</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SUNDSVALL</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">405</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1301</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SZCZECIN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">307</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2456</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TALLIN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">913</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1616</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TAMPERE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">810</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1369</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TORONDHEIM</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1197</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">VAASA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">659</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1181</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">VITEBSK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1397</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2032</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">WARSZAWA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">819</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2534</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BASEL</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1755</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">667</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BERN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1733</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">741</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BOURGES</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1195</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">743</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BREST</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">685</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">447</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BRUXELLES</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1473</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">237</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CALAIS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1273</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">213</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CLERMONT-FERRAND</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1371</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">871</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">DIJON</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1509</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">687</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">DOVER</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1229</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">175</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">FRANKFURT</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1857</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">339</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GENEVE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1595</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">833</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">KASSEL</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1905</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">181</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">KOLN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">437</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">129</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LE HAVRE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">115</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">371</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LILLE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1359</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">277</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LIMOGES</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1165</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">849</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LUXEMBOURG</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1625</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">385</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LYON</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1490</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">888</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NANCY</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1615</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">505</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NANTES</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">917</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">633</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ORLEANS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1231</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">595</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PARIS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1285</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">467</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PLYMOUTH</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">769</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">221</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">REIMS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1445</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">433</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">RENNES</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">923</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">533</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ROTTERDAM</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1505</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">135</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">STRASBOURG</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1770</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">520</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">STUTTGART</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1881</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">507</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TOURS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">119</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">653</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ZURICH</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1833</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">683</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">AMSTERDAM</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1551</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">81</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BRISTOL</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">907</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">HANNOVER</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1931</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">73</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LONDON</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1113</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">107</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">AJACCIO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1837</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1385</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ALICANTE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">895</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1787</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BADAJOZ</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">257</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1624</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BARCELONA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1190</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1426</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BIARRITZ</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">863</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1119</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BORDEAUX</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">971</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">959</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CADIZ</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">275</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1946</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CAGLIARI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1901</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1739</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">COIMBRA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">137</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1422</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CORDOBA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">447</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1777</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GENOVA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1865</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1066</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GRANADA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">575</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1888</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LA CORUNA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">211</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1040</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LISBOA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1576</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MADRID</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">597</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1484</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MALAGA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">487</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1950</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MARSEILLE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1525</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1207</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MILANO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1883</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">939</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NARBONNE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1293</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1197</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NICE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1693</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1151</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PALMA MALLORCA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1235</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1660</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PORTO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">141</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1308</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SANTANDER</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">645</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1100</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SAN SEBASTIAN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">803</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1153</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SASSARI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1837</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1535</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SEVILLA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">311</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1826</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TORINO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1763</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">983</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TOULOUSE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1143</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1141</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">VALENCIA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">917</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1646</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">VALLADOLID</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">519</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1297</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ZARAGOZA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">890</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1370</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BOLZANO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">105</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">783</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BRNO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">535</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">429</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BUCURESTI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1450</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">888</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BUDAPEST</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">757</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">602</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CERNOVCY</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1329</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">418</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CHARKOV</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1789</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">136</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CLUJ-NAPOCA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1175</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">635</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CONSTANTA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1683</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">878</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">DRESDEN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">271</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">196</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GALATI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1585</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">743</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">GRAZ</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">447</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">702</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">INNSBRUCK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">93</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">692</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">KIJEV</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1515</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">153</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">KRAKOV</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1791</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">137</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LVOV</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1111</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">257</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LEIPZIG</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">158</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">173</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LINZ</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">339</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">550</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LODZ</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">719</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">82</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MISKOLC</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">905</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MUNCHEN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">105</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">580</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NURNBERG</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">79</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">411</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ODESSA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1795</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">523</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PLZEN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">360</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PRAHA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">370</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">320</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SALZBURG</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">615</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TRIESTE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">335</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">893</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">VINNICA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1457</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">302</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">WIEN</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">519</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">540</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">WROCLAW</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">544</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">166</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ZAGREB</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">green</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">515</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">840</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MAGDEBURG</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">red</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">105</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">74</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ANCONA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">321</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1156</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ATHINAI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1383</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1756</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BARI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">657</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1443</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BEOGRAD</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">933</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">928</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">BOLOGNA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">103</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1047</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CATANIA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">525</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1926</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">DUBROVNIK</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">749</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1222</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">EDIRNE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1587</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1221</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">FIRENZE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1135</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ISTANBUL</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1805</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1260</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">LARISA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1215</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1555</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MESSINA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">550</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1848</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NAPOLI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">413</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1500</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NIS</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1093</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1103</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PALERMO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">343</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1848</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PESCARA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1300</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PISA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1145</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">PLOVDIV</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1373</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1202</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ROMA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">227</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1353</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SARAJEVO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">760</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1065</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SKOPJE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1085</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1276</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SOFIJA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1237</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1153</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SPLIT</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">595</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1131</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TARANTO</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">690</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1505</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">THESSALONIKI</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1247</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1417</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TIRANE</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">939</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1379</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">VARNA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1651</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1006</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">VENEZIA</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">yellow</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">195</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">923</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
