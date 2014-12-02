@@ -127,6 +127,9 @@ public class TravelGameUI extends Thread{
     private HBox splashPaneToolBar;
     private VBox cardBox;
     
+    private HBox zoneOneTwoBox;
+    
+    
     
     private ComboBox selectPlayersComboBox;
     private Label text;
@@ -161,7 +164,10 @@ public class TravelGameUI extends Thread{
     private int currentZone;
     private int totalPlayer;
     private int currentPlayer;
-    private int zoneOneNum;
+    private int zoneOneCityNum;
+    private int zoneTwoCityNum;
+    private int zoneThreeCityNum;
+    private int zoneFourCityNum;
     
     private ArrayList textFieldList;
     private final ArrayList<Player> players;
@@ -195,10 +201,10 @@ public class TravelGameUI extends Thread{
         zoneThreeCityList = new String[179][5];
         zoneFourCityList = new String[179][5];
         
-        zoneOneCityList =Arrays.copyOf(cr.readCity(),180);
-        zoneTwoCityList =Arrays.copyOf(cr.readCity(),180);
-        zoneThreeCityList =Arrays.copyOf(cr.readCity(),180);
-        zoneFourCityList =Arrays.copyOf(cr.readCity(),180);
+        zoneOneCityList =Arrays.copyOf(cr.readCity(1),180);
+        zoneTwoCityList =Arrays.copyOf(cr.readCity(2),180);
+        zoneThreeCityList =Arrays.copyOf(cr.readCity(3),180);
+        zoneFourCityList =Arrays.copyOf(cr.readCity(4),180);
 
         printCityInfor();
     }
@@ -581,23 +587,98 @@ public class TravelGameUI extends Thread{
         return mainPane;
     }
     
+        public Canvas gameMapPaneTwo(){
+        gameMapCanvas = new Canvas(856,890);
+
+        //currentZone = play
+        mapOne = new Image("file:images/gameplay_DF14.jpg",856,890,false,false);
+
+        gameMapCanvas.getGraphicsContext2D().drawImage(mapOne, 0, 0, 856, 890);
+        gameMapCanvas.setStyle("-fx-border-stylel:solid; -fx-border-width:1pt; -fx-border-color:black;");
+        gameMapCanvas.setOnMouseClicked(e->{
+        clickX = (int)e.getX();
+        clickY= (int)e.getY();
+        System.out.println(clickX*1903/856 +": " + gameMapCanvas.getWidth());
+        System.out.println(clickY*2585/890+": "+ gameMapCanvas.getHeight());
+        
+        for(int i = 0; i<zoneTwoCityNum; i++){
+                if((clickX*1903/856)>= parseInt(zoneTwoCityList[i][3])-30 && (clickX*1903/856)<= parseInt(zoneTwoCityList[i][3])+30)
+                    if((clickY*2585/890)>= parseInt(zoneTwoCityList[i][4])-30 && (clickY*2585/890)<= parseInt(zoneTwoCityList[i][4])+30)
+                        System.out.println("YOU CLICK ON CITY :" + zoneTwoCityList[i][0]);
+        }
+        });
+
+        return gameMapCanvas;
+    }
+        
+        
+        
+        public Canvas gameMapPaneThree(){
+        gameMapCanvas = new Canvas(856,890);
+
+        //currentZone = play
+        mapOne = new Image("file:images/gameplay_AC58.jpg",856,890,false,false);
+
+        gameMapCanvas.getGraphicsContext2D().drawImage(mapOne, 0, 0, 856, 890);
+        gameMapCanvas.setStyle("-fx-border-stylel:solid; -fx-border-width:1pt; -fx-border-color:black;");
+        gameMapCanvas.setOnMouseClicked(e->{
+        clickX = (int)e.getX();
+        clickY= (int)e.getY();
+        System.out.println(clickX*1985/856 +": " + gameMapCanvas.getWidth());
+        System.out.println(clickY*2583/890+": "+ gameMapCanvas.getHeight());
+        
+        for(int i = 0; i<zoneThreeCityNum; i++){
+                if((clickX*1985/856)>= parseInt(zoneThreeCityList[i][3])-30 && (clickX*1985/856)<= parseInt(zoneThreeCityList[i][3])+30)
+                    if((clickY*2583/890)>= parseInt(zoneThreeCityList[i][4])-30 && (clickY*2583/890)<= parseInt(zoneThreeCityList[i][4])+30)
+                        System.out.println("YOU CLICK ON CITY :" + zoneThreeCityList[i][0]);
+        }
+        });
+
+        return gameMapCanvas;
+    }
+            
+            
+        public Canvas gameMapPaneFour(){
+        gameMapCanvas = new Canvas(856,890);
+
+        //currentZone = play
+        mapOne = new Image("file:images/gameplay_DF58.jpg",856,890,false,false);
+
+        gameMapCanvas.getGraphicsContext2D().drawImage(mapOne, 0, 0, 856, 890);
+        gameMapCanvas.setStyle("-fx-border-stylel:solid; -fx-border-width:1pt; -fx-border-color:black;");
+        gameMapCanvas.setOnMouseClicked(e->{
+        clickX = (int)e.getX();
+        clickY= (int)e.getY();
+        System.out.println(clickX*1927/856 +": " + gameMapCanvas.getWidth());
+        System.out.println(clickY*2561/890+": "+ gameMapCanvas.getHeight());
+        
+        for(int i = 0; i<zoneFourCityNum; i++){
+                if((clickX*1927/856)>= parseInt(zoneFourCityList[i][3])-30 && (clickX*1927/856)<= parseInt(zoneFourCityList[i][3])+30)
+                    if((clickY*2561/890)>= parseInt(zoneFourCityList[i][4])-30 && (clickY*2561/890)<= parseInt(zoneFourCityList[i][4])+30)
+                        System.out.println("YOU CLICK ON CITY :" + zoneFourCityList[i][0]);
+        }
+        });
+
+        return gameMapCanvas;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     public Canvas gameMapPane(){
         gameMapCanvas = new Canvas(856,890);
-        //gameMapPane = new Pane();
-        //gameMapPane.setPrefSize(900,900);
-        //gameMapCanvas.resize(850,850);
-       // gameMapCanvas.setHeight(900);
-        //gameMapCanvas.setWidth(900);
-        
-        
-        
-        
-        
+
         //currentZone = play
         mapOne = new Image("file:images/gameplay_AC14.jpg",856,890,false,false);
-        //mapOne.getRequestedHeight(890);
-        //mapOne.getRequestedWidth(890");
-        //gameMapCanvas.setStyle("-fx-background-image: url('file:images/Game.JPG');-fx-background-size: 850 850");
+
         gameMapCanvas.getGraphicsContext2D().drawImage(mapOne, 0, 0, 856, 890);
         gameMapCanvas.setStyle("-fx-border-stylel:solid; -fx-border-width:1pt; -fx-border-color:black;");
         gameMapCanvas.setOnMouseClicked(e->{
@@ -606,13 +687,13 @@ public class TravelGameUI extends Thread{
         System.out.println(clickX*2010/856 +": " + gameMapCanvas.getWidth());
         System.out.println(clickY*2569/890+": "+ gameMapCanvas.getHeight());
         
-        for(int i = 0; i<zoneOneNum; i++){
+        for(int i = 0; i<zoneOneCityNum; i++){
                 if((clickX*2010/856)>= parseInt(zoneOneCityList[i][3])-30 && (clickX*2010/856)<= parseInt(zoneOneCityList[i][3])+30)
                     if((clickY*2569/890)>= parseInt(zoneOneCityList[i][4])-30 && (clickY*2569/890)<= parseInt(zoneOneCityList[i][4])+30)
                         System.out.println("YOU CLICK ON CITY :" + zoneOneCityList[i][0]);
         }
         });
-       // gameMapPane.getChildren().add(gameMapCanvas);
+
         return gameMapCanvas;
     }
     
@@ -635,7 +716,7 @@ public class TravelGameUI extends Thread{
         System.out.println(parseInt(zoneOneCityList[0][3]));
         System.out.println(parseInt(zoneOneCityList[0][4]));
         System.out.println(zoneOneCityList[0][0]);
-        for(int i = 0; i<zoneOneNum; i++){
+        for(int i = 0; i<35; i++){
                 if((clickX*2010/856)>= parseInt(zoneOneCityList[i][3])-5 && (clickX*2010/856)<= parseInt(zoneOneCityList[i][3])+5)
                     if((clickY*2569/890)>= parseInt(zoneOneCityList[i][4])-5 && (clickY*2569/890)<= parseInt(zoneOneCityList[i][4])+5)
                         System.out.println("YOU CLICK ON CITY :" + zoneOneCityList[i][0]);
@@ -686,19 +767,39 @@ public class TravelGameUI extends Thread{
         zoneOneImage = new Image("file:images/zone1.jpg");
         zoneOneImageView = new ImageView(zoneOneImage);
         zoneOneButton.setGraphic(zoneOneImageView);
+        zoneOneButton.setOnAction(e->{
+             mainPane.setLeft(initCardPane());
+             mainPane.setCenter(gameMapPane());
+             mainPane.setRight(rightToolBarPane());
+        });
         
         zoneTwoImage = new Image("file:images/zone2.jpg");
         zoneTwoImageView = new ImageView(zoneTwoImage);
         zoneTwoButton.setGraphic(zoneTwoImageView);
+                zoneTwoButton.setOnAction(e->{
+             mainPane.setLeft(initCardPane());
+             mainPane.setCenter(gameMapPaneTwo());
+             mainPane.setRight(rightToolBarPane());
+        });
         
         zoneThreeImage = new Image("file:images/zone3.jpg");
         zoneThreeImageView = new ImageView(zoneThreeImage);
         zoneThreeButton.setGraphic(zoneThreeImageView);
+                zoneThreeButton.setOnAction(e->{
+             mainPane.setLeft(initCardPane());
+             mainPane.setCenter(gameMapPaneThree());
+             mainPane.setRight(rightToolBarPane());
+        });
         
         zoneFourImage = new Image("file:images/zone4.jpg");
         zoneFourImageView = new ImageView(zoneFourImage);
         zoneFourButton.setGraphic(zoneFourImageView);
-        
+                zoneFourButton.setOnAction(e->{
+             mainPane.setLeft(initCardPane());
+             mainPane.setCenter(gameMapPaneFour());
+             mainPane.setRight(rightToolBarPane());
+        });
+        zoneFourButton.setStyle("-fx-base: lightgray; -fx-background-color : lightgray;");
         rightToolBar.setStyle("-fx-border-stylel:solid; -fx-border-width:1pt; -fx-border-color:black;");
         rightToolBar.setAlignment(Pos.CENTER);
         
@@ -795,26 +896,34 @@ public class TravelGameUI extends Thread{
             System.out.println(zoneOneCityList[counterI][0]+ " " +zoneOneCityList[counterI][1] + " " + zoneOneCityList[counterI][2]
             +" " +zoneOneCityList[counterI][3]+" "+zoneOneCityList[counterI][4] );
             counterI++;
-            zoneOneNum++;
+            zoneOneCityNum++;
     }
+        
         counterI =0;
         while(zoneTwoCityList[counterI][0]!=null){
             System.out.println(zoneTwoCityList[counterI][0]+ " " +zoneTwoCityList[counterI][1] + " " + zoneTwoCityList[counterI][2]
             +" " +zoneTwoCityList[counterI][3]+" "+zoneTwoCityList[counterI][4] );
             counterI++;
+            zoneTwoCityNum++;
     }
         counterI =0;
         while(zoneThreeCityList[counterI][0]!=null){
             System.out.println(zoneThreeCityList[counterI][0]+ " " +zoneThreeCityList[counterI][1] + " " + zoneThreeCityList[counterI][2]
             +" " +zoneThreeCityList[counterI][3]+" "+zoneThreeCityList[counterI][4] );
             counterI++;
+            zoneThreeCityNum++;
     }
         counterI =0;
         while(zoneFourCityList[counterI][0]!=null){
             System.out.println(zoneFourCityList[counterI][0]+ " " +zoneFourCityList[counterI][1] + " " + zoneFourCityList[counterI][2]
             +" " +zoneFourCityList[counterI][3]+" "+zoneFourCityList[counterI][4] );
             counterI++;
+            zoneFourCityNum++;
     }
+       
+        
+        System.out.println(zoneOneCityNum+": "+zoneTwoCityNum+": "+zoneThreeCityNum+": "+zoneFourCityNum);
+         System.out.println(zoneTwoCityList[0][0]);
     }
     /*
     protected void k() throws Exception {
